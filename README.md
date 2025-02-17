@@ -37,3 +37,16 @@ Estudo sobre Bootstrap 5.
 - [Aula 33](https://github.com/MatheusADC/Curso-Bootstrap5/tree/main/Aulas/Aula33)
 - [Aula 34](https://github.com/MatheusADC/Curso-Bootstrap5/tree/main/Aulas/Aula34)
 - [Aula 35](https://github.com/MatheusADC/Curso-Bootstrap5/tree/main/Aulas/Aula35)
+
+# <img src="https://github.com/user-attachments/assets/0c05f2f5-bfc1-468e-a3fe-a33a71f8c8db" alt="ícone de resumo" width="32"> Emmet Abbreviations
+- `table>tr>td{Coluna $}*5`
+- `div.container>h${h$ - Título de Nível $}*6`
+- `dl>(dt{Termo $}+dd{Descrição do termo $})*5`
+- `div.container>img.img-fluid[src="img.svg"]`
+- `figure.figure>img.img-fluid.rounded[src="quad.svg"]+figcaption.figcaption.text-end{Legenda da Figura}`
+- `div.container>table>thead+tbody`
+- `(tr>td{Coluna $}*4)*5`
+- `(h3>a[href=/Aulas/Aula$/index.html]{Aula $})*35`
+- `div.container>form>(div>(label+input+div))*3+button`
+- `div.mb-3>(label.form-label{Cidade}+input.form-control[placeholder="Digite para buscar..."])`
+- `div.carousel-indicators>button.active[data-bs-target="#ads" data-bs-slide-to="?"]*3`
