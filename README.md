@@ -1,7 +1,7 @@
 # <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="ícone de descrição" width="28"> Descrição
 Estudo sobre Bootstrap 5.
 
-# <img src="https://github.com/user-attachments/assets/762d1dc4-0536-42b3-91b0-e7930a06890c" alt="ícone dos livros" width="28"> Aulas
+# <img src="https://github.com/user-attachments/assets/b0bd5d91-ca19-48e4-8264-ae432daa9935" alt="ícone dos livros" width="28"> Aulas
 - [Aula 1](https://github.com/MatheusADC/Curso-Bootstrap5/tree/main/Aulas/Aula1)
 - [Aula 2](https://github.com/MatheusADC/Curso-Bootstrap5/tree/main/Aulas/Aula2)
 - [Aula 3](https://github.com/MatheusADC/Curso-Bootstrap5/tree/main/Aulas/Aula3)
@@ -38,7 +38,7 @@ Estudo sobre Bootstrap 5.
 - [Aula 34](https://github.com/MatheusADC/Curso-Bootstrap5/tree/main/Aulas/Aula34)
 - [Aula 35](https://github.com/MatheusADC/Curso-Bootstrap5/tree/main/Aulas/Aula35)
 
-# <img src="https://github.com/user-attachments/assets/0c05f2f5-bfc1-468e-a3fe-a33a71f8c8db" alt="ícone de resumo" width="32"> Emmet Abbreviations
+# <sub><img src="https://github.com/user-attachments/assets/06ec3ce9-93ee-4041-8aa6-dece97ba8657" alt="ícone de resumo" width="38"></sub> Emmet Abbreviations
 - `table>tr>td{Coluna $}*5`
 - `div.container>h${h$ - Título de Nível $}*6`
 - `dl>(dt{Termo $}+dd{Descrição do termo $})*5`
